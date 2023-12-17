@@ -1,7 +1,7 @@
-- Hello, I’m @maduru
-- I’m interested in programming, reading and writing.
-- I’m currently learning HTML.
-- I’m looking to collaborate on free and open source projects.
+- Hello, I am @maduru;
+  - interested in programming, reading and writing.
+  - currently learning HTML.
+  - looking to collaborate on free and open source projects.
 
 <!---
 maduru/maduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
